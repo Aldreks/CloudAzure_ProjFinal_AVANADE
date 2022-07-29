@@ -14,11 +14,11 @@ Análise do projeto, desenho da estrutura, proposta ao cliente.
 - Bruna Capellari (Gama Academy)
 
 # Membros do Grupo 5 - NewAge:
-Aldreks Albuquerque (Recife-PE)
-Fernando Ramos (BA)
-Lenize Vasconcelos (RJ)
-Mônica Ribeiro (RJ)
-Rogério Lima (RJ)
-Marcelo Chella (PR)
-Viviane Gonçalves (SP)
+- Aldreks Albuquerque (Recife-PE)
+- Fernando Ramos (BA)
+- Lenize Vasconcelos (RJ)
+- Mônica Ribeiro (RJ)
+- Rogério Lima (RJ)
+- Marcelo Chella (PR)
+- Viviane Gonçalves (SP)
 
